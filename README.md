@@ -3,7 +3,9 @@
 ### 👩‍💻 Who am I?
 * 🎓 3rd-year B.Tech student at NIST University, passionate about building impactful web apps and data-driven solutions.
 * 🌟 Google Student Ambassador 2026.
-* 📊 Data Analyst Intern at SkillCraft Technology.
+* 📊 Ex-Data Analyst Intern at SkillCraft Technology.
+* 👩🏻‍💻 Ex-Web Developer Intern at IITianCraft
+* 🖥️ Ex-Trainee at NALCO, Damanjodi
 
 ### 🔭 What am I currently working on?
 * 🚌 **City Transit:** Real-time public transportation tracking system prototype (Internal SIH 2025 Qualifier).
